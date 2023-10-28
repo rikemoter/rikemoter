@@ -1,10 +1,10 @@
 Hola soy @rikemoter
 
-Basic Tech Aquí va un párrafo que describe lo que es el proyecto
+Remote Reporte Aquí va un párrafo que describe lo que es el proyecto
 
 Comenzando🚀Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu local para propósitos de desarrollo y pruebas.
 
-Mira Deployment para conocer como desplegar el proyecto Remote Reporte.
+Mira Deployment para conocer como desplegar el proyecto Seattle News.
 
 pre-requisitos📋Que cosas necesitas para instalar el software y como instalarlas
 
